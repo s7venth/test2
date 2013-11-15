@@ -8,7 +8,7 @@ public class Test {
 		
 		Model unModel = new Model();
 		Connection connexion = unModel.connexion();
-	
+		System.out.println("ok");
 				
 		
 		try{
