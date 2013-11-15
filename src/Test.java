@@ -9,6 +9,7 @@ public class Test {
 		Model unModel = new Model();
 		Connection connexion = unModel.connexion();
 		System.out.println("ok");
+		System.out.println("ça marche");
 				
 		
 		try{
